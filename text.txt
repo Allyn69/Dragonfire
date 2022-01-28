@@ -1,0 +1,8 @@
+kali@kali:~$ sudo apt update
+...
+kali@kali:~$
+kali@kali:~$ sudo apt full-upgrade -y
+...
+kali@kali:~$
+kali@kali:~$ [ -f /var/run/reboot-required ] && sudo reboot -f
+kali@kali:~$
