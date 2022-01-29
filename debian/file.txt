@@ -1,0 +1,1 @@
+AI Pro =personal development assistants —add “permissions”(true)
