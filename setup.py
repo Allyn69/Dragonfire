@@ -136,7 +136,7 @@ setup(
         'metadata_parser==0.9.20',
         'hug==2.4.0',
         'hug-middleware-cors==1.0.0',
-        'waitress==1.1.0',
+        'waitress==2.1.1',
         'SpeechRecognition',
         'pyjwt==1.6.4',
         'SQLAlchemy>=1.3.0',
